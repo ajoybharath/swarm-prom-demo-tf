@@ -1,0 +1,6 @@
+[masters]
+IP of master ansible_user=ubuntu
+
+[workers]
+IP of nodes ansible_user=ubuntu
+IP of nodes ansible_user=ubuntu
